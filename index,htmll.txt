@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>BeautyGlo – Esthétique & Bien-être</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HERO -->
+<header class="hero">
+  <div class="overlay">
+
+    <img class="logo" src="https://i.postimg.cc/YCqG9kv3/logo-bg.jpg" alt="BeautyGlo Logo">
+
+    <p class="subtitle">
+      Beauté du sourire • Beauté du regard • Massage<br>
+      Tours
+    </p>
+
+    <div class="buttons">
+      <a href="https://wa.me/33695718344?text=Bonjour%20BeautyGlo%2C%20je%20souhaite%20prendre%20un%20rendez-vous."
+         target="_blank" class="btn">
+        Réserver via WhatsApp
+      </a>
+
+      <a href="https://www.instagram.com/beautyglo_w" target="_blank" class="btn insta">
+        Instagram
+      </a>
+
+      <a href="https://www.snapchat.com/add/beautyglo_w" target="_blank" class="btn snap">
+        Snapchat
+      </a>
+    </div>
+
+  </div>
+</header>
+
+<!-- ABOUT -->
+<section class="section about">
+  <h2>À propos</h2>
+  <p>
+    BeautyGlo vous accueille dans un espace élégant et chaleureux,
+    dédié à la beauté et au bien-être.  
+    Des prestations professionnelles pour sublimer votre beauté naturelle.
+  </p>
+</section>
+
+<!-- TARIFS -->
+<section class="section tarifs">
+  <h2>Tarifs</h2>
+
+  <div class="tarifs-box">
+    <img src="https://i.postimg.cc/90CXntTy/tarifs.jpg" alt="Tarifs BeautyGlo">
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section class="section contact">
+  <h2>Contact</h2>
+  <p>📍 Tours</p>
+  <p>📞 +33 6 95 71 83 44</p>
+
+  <a href="https://wa.me/33695718344"
+     target="_blank" class="btn">
+     Contacter sur WhatsApp
+  </a>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>© 2026 BeautyGlo — Un instant pour soi, un éclat pour toujours</p>
+</footer>
+
+</body>
+</html>
